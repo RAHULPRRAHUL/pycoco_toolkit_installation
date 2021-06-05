@@ -17,7 +17,8 @@ To install:
 
 
 ###########################################################################
-
+Discussion:
+https://github.com/matterport/Mask_RCNN/issues/6
 
 clone github repository:-
 
